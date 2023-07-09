@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @rodriguescarson
-- 👀 I’m interested in building cool stuff and be part of a team that does great things
-- 🌱 I’m currently building projects using react/react-native/AI/Blockchain
-- 💞️ I’m looking to collaborate on app developent using react-native and mern stack web development
-- 📫 Contact me on Instagram:  https://instagram.com/carson_marz/
-                    Linkedin: https://www.linkedin.com/in/rodriguescarson
+👋 Hi there, I'm Rodrigo Carson, also known as @rodriguescarson. Welcome to my GitHub profile! You can find more about me and my work on my website: carsonrodrigues.me.
 
-<!---
-rodriguescarson/rodriguescarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm passionate about building cool stuff and being part of a team that achieves great things. Currently, I'm actively working on projects involving technologies like React, React Native, AI, and Blockchain.
+
+💞️ If you're interested in collaborating on app development using React Native or MERN stack web development, I would be thrilled to work together and create amazing applications.
+
+📫 You can reach out to me on Instagram: carson_marz or LinkedIn: rodriguescarson.
+
+Feel free to explore my repositories and projects, and don't hesitate to get in touch. Let's build something awesome together!
