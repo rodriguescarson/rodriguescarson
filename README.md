@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi there, I'm Rodrigo Carson, also known as @rodriguescarson. Welcome to my GitHub profile! You can find more about me and my work on my website: carsonrodrigues.me.<br><br>👀 I'm passionate about building cool stuff and being part of a team that achieves great things. Currently, I'm actively working on projects involving technologies like React, React Native, AI, and Blockchain.<br><br>💞️ If you're interested in collaborating on app development using React Native or MERN stack web development, I would be thrilled to work together and create amazing applications.<br><br>📫 You can reach out to me on Instagram: carson_marz or LinkedIn: rodriguescarson.<br><br>Feel free to explore my repositories and projects, and don't hesitate to get in touch. Let's build something awesome together!
+## 💫 About Me:
+👋 Hey there, I'm Carson Rodrigues, and I'm thrilled to have you on my GitHub profile! My passion is to craft innovative solutions and be part of dynamic teams that achieve remarkable feats.
+
+🚀 My current focus revolves around the exciting realms of React, React Native, AI, and Blockchain. I thrive on turning ideas into tangible, tech-driven realities.
+
+💡 My purpose is clear: to create exceptional applications and digital experiences. Whether it's through React Native app development or crafting MERN stack web applications, I'm dedicated to delivering excellence.
+
+🤝 Collaboration is at the heart of what I do. If you share my enthusiasm for building cutting-edge apps, let's team up and make something extraordinary. You can reach me on Instagram (carson_marz) or connect with me on LinkedIn (rodriguescarson).
+
+🌐 To discover more about my projects and explore my repositories, dive in and don't hesitate to reach out. Together, we can bring our ideas to life and build something truly awesome!
 
 
 ## 🌐 Socials:
